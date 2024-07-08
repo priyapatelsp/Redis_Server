@@ -1,6 +1,6 @@
-# LOAD BALANCER
+# Redis Server
 
-This endeavor involved developing a customized load balancer as a part of <a href="https://codingchallenges.fyi/challenges/challenge-load-balancer">Coding challenges </a>  , Redis is an in-memory data structure server, which supports storing strings, hashes, lists, sets, sorted sets and more.
+This endeavor involved developing a customized Redis server  as a part of <a href="https://codingchallenges.fyi/challenges/challenge-redis">Coding challenges </a>  , Redis is an in-memory data structure server, which supports storing strings, hashes, lists, sets, sorted sets and more.
 
 <h1>Get started </h1>
 This tool uses NodeJs , so please ensure that you have latest Node version installed in your device 
